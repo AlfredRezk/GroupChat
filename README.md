@@ -1,4 +1,4 @@
-<img src="./Design/cover.PNG" width="100%"/>
+<img src="./Design/cover.png" width="100%"/>
 
 ### 1. Description
 ---
@@ -11,15 +11,17 @@
 1. <span align="left">Firebase <img align="right" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </span>
 <br/>
+
 2. <span align="left">React Native <img align="right" src="./Design/react-native.png" alt="react-native" width="40" height="40"/> 
 </span>
 <br/>
+
 3. <span align="left">Expo <img align="right" src="./Design/expo.png" alt="react-native" width="40" height="40"/> 
 </span>
 <br/>
 
 ### 3. Configurations 
-
+---
 Update the **firestore.js** file with your firebase configurations
 
 ```Javascript
@@ -40,7 +42,7 @@ const firebaseConfig = {
 ### 5. Perview
  <img src="./Design/cover2.png" width="100%"/>
 <p align="center">
- <img  src="./Design/demo.gif" width="75%"/>
+ <img  src="./Design/demo.gif" width="60%"/>
 </p>
 
 ### 6. Demo
